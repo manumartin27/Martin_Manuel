@@ -5,7 +5,7 @@ se muestren siempre de forma correcta
 
 var num1 = 3;
 var num2 = 7;
-if(num1<num2) {
+if(num1<=num2) {
 console.log("num1 no es mayor que num2");
 }
 if(num2>0) {
